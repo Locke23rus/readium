@@ -1,1 +1,1 @@
-document.querySelectorAll(".js-metabar,.js-metabarSpacer,.js-stickyFooter").forEach(e => e.remove());
+document.querySelectorAll(".js-metabar,.js-metabarSpacer,.js-stickyFooter,.js-postShareWidget").forEach(e => e.remove());
